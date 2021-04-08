@@ -1,0 +1,39 @@
+table{
+    color: rgb(19, 224, 231);
+    font-size: large;
+    text-align: center;
+}
+body{
+     background: url(../img/1.jpg); 
+      background-repeat:round;  
+    }
+a:hover{
+   font-size: large;
+   color: rgb(29, 13, 3);
+   background-image: url(../img/3.jfif);
+}
+a{
+    color: rgb(223, 50, 19);
+    font-size: larger;
+}
+p{
+    color:aqua;
+}
+h1{
+    border: 1px;
+    border-style: solid;
+    border-radius: 1rem ;
+    background-color: antiquewhite;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    font-style:italic;
+}
+body:hover{
+    background: url(../img/5.jpg);
+    transition:  5s;
+}
+footer{
+    height: 900px;
+}
+
